@@ -9,9 +9,26 @@ public class second : MonoBehaviour
     {
         int a=4;
         float b=2;
-        var c=b/a;
 
-        Debug.Log(c);
+
+        Debug.Log("b/a");
+        Debug.Log(b/a);
+        Debug.Log("a/b");
+        Debug.Log(a/b);
+        Debug.Log("a+b");
+        Debug.Log(a+b);
+        Debug.Log("b+a");
+        Debug.Log(b+a);
+        Debug.Log("a*b");
+        Debug.Log(a*b);
+        Debug.Log("b*a");
+        Debug.Log(b*a);
+        Debug.Log("b-a");
+        Debug.Log(b-a);
+        Debug.Log("a-b");
+        Debug.Log(a-b);
+
+
 
     }
 
